@@ -2,7 +2,7 @@
   "name": "recipe-app",
   "version": "0.1.0",
   "private": true,
-  "homewpage": "https://lsan31296.github.io/Recipe-App/",
+  "homepage": "https://lsan31296.github.io/Recipe-App/",
   "dependencies": {
     "gh-pages": "^6.3.0",
     "react": "^16.13.1",
